@@ -1,0 +1,22 @@
+{
+  "name": "keplar-telecope-planets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShauryaDahiya1998/Keplar-Telecope-Planets.git"
+  },
+  "author": "Shaurya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShauryaDahiya1998/Keplar-Telecope-Planets/issues"
+  },
+  "homepage": "https://github.com/ShauryaDahiya1998/Keplar-Telecope-Planets#readme",
+  "dependencies": {
+    "csv-parse": "^5.3.5"
+  }
+}
